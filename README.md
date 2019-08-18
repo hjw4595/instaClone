@@ -1,5 +1,5 @@
 # instaClone
-full-stack project
-prisma , graphql 
-express
-sendmail  
+*full-stack project
+1. prisma , graphql 
+2. express
+3. sendmail  
